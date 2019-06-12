@@ -8,8 +8,8 @@ Complexity map is by [Brian Castellani](https://www.art-sciencefactory.com/brian
 
 Cognitive Science map is by [Anna Riedl](http://www.riedlanna.com/cognitivesciencemap.html)
 
-Cognitive Science Hexagon is from the Sloan Foundation (circa 1978). Cited as Figure 1 in "What happened to cognitive science?" _Nature Human Behavior_, doi:10.10387/s41562-019-0626-2
+Cognitive Science Hexagon is from the Sloan Foundation (circa 1978). Cited as Figure 1 in "What happened to cognitive science?" _Nature Human Behavior_, doi:10.10387/s41562-019-0626-2. [local copy](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps/blob/master/Cognitive%20Science/cogsci-hexagon.png)
 
-Diversity of Views in Cognitive Science (circa 1991). Cited in "The embodied mind: Cognitive science and human experience". MIT Press.
+Diversity of Views in Cognitive Science (circa 1991). Cited in "The embodied mind: Cognitive science and human experience". MIT Press. [local copy](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps/blob/master/Cognitive%20Science/diversity-of-views-in-cogsci.png)
 
 Complexity Science map is by [Michael Gaio](https://thehomunculus.wordpress.com/2009/12/07/cognitive-science-3d-mind-map/)
