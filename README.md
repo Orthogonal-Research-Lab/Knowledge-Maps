@@ -16,4 +16,7 @@ Complexity Science map is by [Michael Gaio](https://thehomunculus.wordpress.com/
 
 ## Field-finding maps (citation networks)  
 
+The following citations use social networks to map out and discover new fields:  
+
+
 
