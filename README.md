@@ -13,3 +13,7 @@ Cognitive Science Hexagon is from the Sloan Foundation (circa 1978). Cited as Fi
 Diversity of Views in Cognitive Science (circa 1991). Cited in "The embodied mind: Cognitive science and human experience". MIT Press. [local copy](https://github.com/Orthogonal-Research-Lab/Knowledge-Maps/blob/master/Cognitive%20Science/diversity-of-views-in-cogsci.png)
 
 Complexity Science map is by [Michael Gaio](https://thehomunculus.wordpress.com/2009/12/07/cognitive-science-3d-mind-map/)
+
+## Field-finding maps (citation networks)  
+
+
