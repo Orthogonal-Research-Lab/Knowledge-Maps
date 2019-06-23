@@ -19,4 +19,7 @@ Complexity Science map is by [Michael Gaio](https://thehomunculus.wordpress.com/
 The following citations use social networks to map out and discover new fields:  
 
 
+Batagelj, V., Ferligoj, A., and Squazzoni, F. (2017).
+[The emergence of a field: a network analysis of research on peer review]
+(https://link.springer.com/article/10.1007/s11192-017-2522-8). Scientometrics, 113(1), 303–532 
 
