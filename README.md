@@ -22,10 +22,9 @@ The following citations use social networks to map out and discover new fields:
 
 Asatani, K., Mori, J., Ochi, M., and Sakata, I. (2018). [Detecting trends in academic research from a citation network using network representation learning](https://doi.org/10.1371/journal.pone.0197260). _PLoS One_, 13(5), e0197260. 
 
-Batagelj, V., Ferligoj, A., and Squazzoni, F. (2017). [The emergence of a field: a network analysis of research on peer review]
-(https://link.springer.com/article/10.1007/s11192-017-2522-8). _Scientometrics_, 113(1), 303–532.  
+Batagelj, V., Ferligoj, A., and Squazzoni, F. (2017). [The emergence of a field: a network analysis of research on peer review](https://link.springer.com/article/10.1007/s11192-017-2522-8). _Scientometrics_, 113(1), 303–532.  
 
-Trujillo, C.M. and Long, T.M. (2018). [Document co-citation analysis to enhance transdisciplinary research] (https://advances.sciencemag.org/content/4/1/e1701130.full). _Science Advances_, 4(1), e1701130.
+Trujillo, C.M. and Long, T.M. (2018). [Document co-citation analysis to enhance transdisciplinary research](https://advances.sciencemag.org/content/4/1/e1701130.full). _Science Advances_, 4(1), e1701130.
 
 
 
