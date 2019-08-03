@@ -14,6 +14,8 @@ Diversity of Views in Cognitive Science (circa 1991). Cited in "The embodied min
 
 Complexity Science map is by [Michael Gaio](https://thehomunculus.wordpress.com/2009/12/07/cognitive-science-3d-mind-map/)
 
+History of Cybernetics map is by [Vanessa Tan (Second Life version)](https://commons.wikimedia.org/wiki/File:History_of_Cybernetics_and_Systems_Science.jpg) and [Bob Horn (pdf version)](http://www.bobhorn.us/assets/uc-systems-science-historyv8--2006.pdf).
+
 ## Field-finding maps (citation networks)  
 
 The following citations use social networks to map out and discover new fields:  
