@@ -16,7 +16,7 @@ Complexity Science map is by [Michael Gaio](https://thehomunculus.wordpress.com/
 
 History of Cybernetics map is by [Vanessa Tan (Second Life version)](https://commons.wikimedia.org/wiki/File:History_of_Cybernetics_and_Systems_Science.jpg) and [Bob Horn (pdf version)](http://www.bobhorn.us/assets/uc-systems-science-historyv8--2006.pdf).
 
-Interdisciplinarity map (circa 2010) by Martin Rossvall and Carl Bergstrom. Figure 3 in "[Mapping Change in Large Networks](https://doi.org/10.1371/journal.pone.0008694)", _PLoS One_, 5(1), e8694. 
+Interdisciplinarity map ([Sankey Diagram](https://en.wikipedia.org/wiki/Sankey_diagram), circa 2010) by Martin Rossvall and Carl Bergstrom. Figure 3 in "[Mapping Change in Large Networks](https://doi.org/10.1371/journal.pone.0008694)", _PLoS One_, 5(1), e8694. 
 
 
 ## Field-finding maps (citation networks)  
