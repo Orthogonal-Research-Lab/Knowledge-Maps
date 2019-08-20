@@ -2,7 +2,7 @@
 
 Visually-appealing literature review alternatives. See [this article](https://blogs.lse.ac.uk/impactofsocialsciences/2019/05/14/the-death-of-the-literature-review-and-the-rise-of-the-dynamic-knowledge-map/) for more information. 
 
-CREDITS:
+### CREDITS:
 
 Complexity map is by [Brian Castellani](https://www.art-sciencefactory.com/briancastellani.html)
 
@@ -15,6 +15,9 @@ Diversity of Views in Cognitive Science (circa 1991). Cited in "The embodied min
 Complexity Science map is by [Michael Gaio](https://thehomunculus.wordpress.com/2009/12/07/cognitive-science-3d-mind-map/)
 
 History of Cybernetics map is by [Vanessa Tan (Second Life version)](https://commons.wikimedia.org/wiki/File:History_of_Cybernetics_and_Systems_Science.jpg) and [Bob Horn (pdf version)](http://www.bobhorn.us/assets/uc-systems-science-historyv8--2006.pdf).
+
+Interdisciplinarity map (circa 2010) by Martin Rossvall and Carl Bergstrom. Figure 3 in "[Mapping Change in Large Networks](https://doi.org/10.1371/journal.pone.0008694)", _PLoS One_, 5(1), e8694. 
+
 
 ## Field-finding maps (citation networks)  
 
