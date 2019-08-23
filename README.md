@@ -18,6 +18,7 @@ History of Cybernetics map is by [Vanessa Tan (Second Life version)](https://com
 
 Interdisciplinarity map ([Sankey Diagram](https://en.wikipedia.org/wiki/Sankey_diagram), circa 2010) by Martin Rossvall and Carl Bergstrom. Figure 3 in "[Mapping Change in Large Networks](https://doi.org/10.1371/journal.pone.0008694)", _PLoS One_, 5(1), e8694. 
 
+Map of the Structure of Neuroscience is from [Matteo Carandini](https://www.carandinilab.net/), analysis of interest areas for attendees of the 2018 Society for Neuroscience (SfN) meeting. 
 
 ## Field-finding maps (citation networks)  
 
