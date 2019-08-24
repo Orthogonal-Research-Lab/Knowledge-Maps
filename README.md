@@ -20,6 +20,8 @@ Interdisciplinarity map ([Sankey Diagram](https://en.wikipedia.org/wiki/Sankey_d
 
 Map of the Structure of Neuroscience is from [Matteo Carandini](https://www.carandinilab.net/), analysis of interest areas for attendees of the 2018 Society for Neuroscience (SfN) meeting. 
 
+Philosophy-Psychology geneological diagram of the concept of habit. Cited as Figure 1 in "[A genealogical map of the concept of habit](https://doi.org/10.3389/fnhum.2014.00522)". _Frontiers in Human Neuroscience_, doi:10.3389/fnhum.2014.00522
+
 ## Field-finding maps (citation networks)  
 
 The following citations use social networks to map out and discover new fields:  
