@@ -1,1 +1,1 @@
-
+This folder contains an infographic with historical milestones in the History of Open Science. There are two versions: a ribbon timeline, and an "Omega" timeline. Points were derived from a selection of tools, documents, and institutions developed over the past century that have helped foster in the current era. Infographics are published with a doi at Figshare [doi:10.6084/m9.figshare.9975713](https://doi.org/10.6084/m9.figshare.9975713.v3).
