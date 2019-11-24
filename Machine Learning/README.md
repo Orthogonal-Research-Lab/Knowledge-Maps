@@ -1,4 +1,4 @@
-## Notes on featured point in history:  
+## Graph on the History of Machine Learning (v1), notes on featured point in history:  
 
 Figure taken from [Timeline of Machine Learning](https://en.wikipedia.org/wiki/Timeline_of_machine_learning), Wikipedia.
 
@@ -15,4 +15,4 @@ Support Vector Machines: Boser, B.E., Guyon, I.M., and Vapnik, V.N. (1992). [A t
 Krizhevsky,, A., Sutskever, I., Hinton, G.E. (2012). [ImageNet classification with deep convolutional neural networks](https://dl.acm.org/citation.cfm?id=2999257). _Proceedings of NIPS_, 1097-1105.
 
 
-#### Graph on connectionism versus symbolic approaches in AI/ML from "[What Deep Learning can Learn from Cybernetics](https://medium.com/intuitionmachine/what-can-we-learn-from-cybernetics-7a5d90e9268d)" by Carlos E. Perez, Intuition Machine blog.
+## Graph on connectionism versus symbolic approaches in AI/ML from "[What Deep Learning can Learn from Cybernetics](https://medium.com/intuitionmachine/what-can-we-learn-from-cybernetics-7a5d90e9268d)" by Carlos E. Perez, Intuition Machine blog.
