@@ -13,3 +13,6 @@ Support Vector Machines: Boser, B.E., Guyon, I.M., and Vapnik, V.N. (1992). [A t
 
 ### 2010s  
 Krizhevsky,, A., Sutskever, I., Hinton, G.E. (2012). [ImageNet classification with deep convolutional neural networks](https://dl.acm.org/citation.cfm?id=2999257). _Proceedings of NIPS_, 1097-1105.
+
+
+#### Graph on connectionism versus symbolic approaches in AI/ML from "[What Deep Learning can Learn from Cybernetics](https://medium.com/intuitionmachine/what-can-we-learn-from-cybernetics-7a5d90e9268d)" by Carlos E. Perez, Intuition Machine blog.
