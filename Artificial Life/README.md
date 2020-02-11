@@ -1,1 +1,1 @@
-This directory contains an infographic on the early history of Artificial Life, from 1950 to 2002.
+This directory contains a knowledge map (major milestones and publications visauliazed on a timeline) of Artificial Life, from 1950 to 2010.
